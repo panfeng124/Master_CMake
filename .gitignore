@@ -1,0 +1,36 @@
+# Out-of-source builds in any lesson
+build/
+build-*/
+build_*/
+cmake-build-*/
+out/build/
+out/install/
+.cxx/
+DerivedData/
+
+# CMake, CTest and Ninja generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest*.txt
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+build.ninja
+build-*.ninja
+.ninja_deps
+.ninja_log
+_deps/
+
+# Compiled objects, libraries and executables
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.dSYM/
