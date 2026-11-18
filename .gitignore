@@ -1,7 +1,13 @@
 # Out-of-source builds in any lesson
-build/
+.vscode
+.idea
+cmake-build-debug
+cmake-build-default
+cmake-build-release
+cmake-build*/
 build-*/
 build_*/
+*build*/
 cmake-build-*/
 out/build/
 out/install/
