@@ -12,3 +12,4 @@ If <variable> is already set as a normal or cache variable, then the command doe
 Each of the Directories in a source tree has its own variable bindings.
 diagnostic：诊断
 definitions：定义
+Add an executable target called <name> to be built from the source files listed in the command invocation.
