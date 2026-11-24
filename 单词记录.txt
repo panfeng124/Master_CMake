@@ -13,3 +13,8 @@ Each of the Directories in a source tree has its own variable bindings.
 diagnostic：诊断
 definitions：定义
 Add an executable target called <name> to be built from the source files listed in the command invocation.
+pass is idle:传递是否空闲
+invalidate:使无效
+archive:存档
+an archive of object files for use when linking other targets.
+probe:探针
