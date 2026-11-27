@@ -18,4 +18,6 @@ invalidate:使无效
 archive:存档
 an archive of object files for use when linking other targets.
 probe:探针
+Atlas:地图集
+glyphAtlas：字形图集。
 Usage requirements from linked library targets will be propagated. Usage requirements of a target's dependencies affect compilation of its own sources.
